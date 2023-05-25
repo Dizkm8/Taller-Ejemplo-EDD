@@ -1,0 +1,18 @@
+﻿  Node.cpp
+  SparseMatrix.cpp
+  Student.cpp
+  System.cpp
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\System.cpp(86,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\System.cpp(118,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\System.cpp(152,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\System.cpp(200,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Taller1.cpp
+  UserInterface.cpp
+  Util.cpp
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\Util.cpp(11,26): warning C4101: 'e': variable local sin referencia
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\Util.cpp(25,26): warning C4101: 'e': variable local sin referencia
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\Util.cpp(39,26): warning C4101: 'e': variable local sin referencia
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\Util.cpp(47,20): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Taller1\Util.cpp(61,26): warning C4101: 'e': variable local sin referencia
+  Generando código...
+  Taller1.vcxproj -> C:\Users\Ignacia\Documents\GitHub\Taller-Ejemplo-EDD\Taller VS\Debug\Taller1.exe
